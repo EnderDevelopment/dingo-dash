@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+<!-- Minecraft 64x64 skin texture: front-facing body-part UV panels -->
+<rect width="64" height="64" fill="#000000" fill-opacity="0"/>
+<!-- Head base: warm sandy dingo fur -->
+<rect x="8" y="0" width="8" height="8" fill="#c9823f"/><rect x="16" y="0" width="8" height="8" fill="#d99550"/><rect x="24" y="0" width="8" height="8" fill="#d99550"/><rect x="32" y="0" width="8" height="8" fill="#c9823f"/>
+<rect x="8" y="8" width="8" height="8" fill="#d99550"/><rect x="16" y="8" width="8" height="8" fill="#e5a75f"/><rect x="24" y="8" width="8" height="8" fill="#e5a75f"/><rect x="32" y="8" width="8" height="8" fill="#d99550"/>
+<rect x="8" y="16" width="8" height="8" fill="#cf8c48"/><rect x="16" y="16" width="8" height="8" fill="#e5a75f"/><rect x="24" y="16" width="8" height="8" fill="#e5a75f"/><rect x="32" y="16" width="8" height="8" fill="#cf8c48"/>
+<rect x="8" y="24" width="8" height="8" fill="#bd7336"/><rect x="16" y="24" width="8" height="8" fill="#e8d0a1"/><rect x="24" y="24" width="8" height="8" fill="#e8d0a1"/><rect x="32" y="24" width="8" height="8" fill="#bd7336"/>
+<!-- Face: pointed ears, amber eyes, cheek ruff and nose -->
+<rect x="8" y="8" width="2" height="3" fill="#f1c879"/><rect x="14" y="8" width="2" height="3" fill="#f1c879"/><rect x="9" y="9" width="1" height="2" fill="#8d462e"/><rect x="14" y="9" width="1" height="2" fill="#8d462e"/>
+<rect x="9" y="13" width="2" height="2" fill="#55382d"/><rect x="13" y="13" width="2" height="2" fill="#55382d"/><rect x="10" y="13" width="1" height="1" fill="#f2bf4f"/><rect x="14" y="13" width="1" height="1" fill="#f2bf4f"/>
+<rect x="11" y="15" width="2" height="2" fill="#f2dcae"/><rect x="10" y="16" width="1" height="1" fill="#f2dcae"/><rect x="13" y="16" width="1" height="1" fill="#f2dcae"/><rect x="11" y="16" width="2" height="1" fill="#49352c"/><rect x="12" y="18" width="1" height="1" fill="#49352c"/>
+<!-- Outer head layer with ear tips and fur tufts -->
+<rect x="40" y="8" width="8" height="8" fill="#d99550"/><rect x="48" y="8" width="8" height="8" fill="#c9823f"/><rect x="40" y="16" width="8" height="8" fill="#e5a75f"/><rect x="48" y="16" width="8" height="8" fill="#d99550"/>
+<rect x="42" y="7" width="2" height="4" fill="#e5a75f"/><rect x="43" y="8" width="1" height="2" fill="#8d462e"/><rect x="50" y="7" width="2" height="4" fill="#e5a75f"/><rect x="51" y="8" width="1" height="2" fill="#8d462e"/>
+<rect x="42" y="16" width="2" height="2" fill="#f1d9a5"/><rect x="50" y="16" width="2" height="2" fill="#f1d9a5"/><rect x="45" y="17" width="2" height="1" fill="#f1d9a5"/>
+<!-- Teal hoodie, red plaid flannel and dark leather vest -->
+<rect x="20" y="20" width="8" height="4" fill="#168b8c"/><rect x="28" y="20" width="8" height="4" fill="#168b8c"/>
+<rect x="20" y="24" width="4" height="12" fill="#168b8c"/><rect x="24" y="24" width="8" height="12" fill="#493b35"/><rect x="32" y="24" width="4" height="12" fill="#168b8c"/>
+<rect x="20" y="24" width="4" height="4" fill="#b74439"/><rect x="20" y="30" width="4" height="2" fill="#b74439"/><rect x="32" y="24" width="4" height="4" fill="#b74439"/><rect x="32" y="30" width="4" height="2" fill="#b74439"/>
+<path d="M20 24h4v2h-2v2h-2zm12 0h4v4h-2v-2h-2zM20 30h4v2h-2v2h-2zm12 0h4v4h-2v-2h-2z" fill="#e2b56c"/>
+<rect x="24" y="24" width="2" height="12" fill="#654c3c"/><rect x="30" y="24" width="2" height="12" fill="#654c3c"/><rect x="27" y="25" width="2" height="2" fill="#bca17a"/><rect x="27" y="30" width="2" height="2" fill="#bca17a"/>
+<rect x="24" y="20" width="8" height="3" fill="#168b8c"/><rect x="25" y="20" width="6" height="1" fill="#36b2aa"/><rect x="27" y="21" width="2" height="2" fill="#d3473e"/>
+<rect x="20" y="34" width="16" height="2" fill="#d94b3e"/><rect x="22" y="34" width="2" height="2" fill="#e5b36a"/><rect x="30" y="34" width="2" height="2" fill="#e5b36a"/>
+<!-- Arms with teal sleeves, plaid cuffs and fur hands -->
+<rect x="44" y="20" width="4" height="12" fill="#168b8c"/><rect x="48" y="20" width="4" height="12" fill="#b74439"/><rect x="44" y="24" width="4" height="2" fill="#36b2aa"/><rect x="48" y="24" width="4" height="2" fill="#e2b56c"/><rect x="44" y="30" width="8" height="2" fill="#493b35"/>
+<rect x="44" y="32" width="8" height="4" fill="#d99550"/><rect x="44" y="32" width="2" height="2" fill="#f1d9a5"/><rect x="50" y="34" width="2" height="2" fill="#c9823f"/>
+<rect x="44" y="36" width="4" height="12" fill="#168b8c"/><rect x="48" y="36" width="4" height="12" fill="#b74439"/><rect x="44" y="40" width="4" height="2" fill="#36b2aa"/><rect x="48" y="42" width="4" height="2" fill="#e2b56c"/><rect x="44" y="46" width="8" height="2" fill="#493b35"/><rect x="44" y="48" width="8" height="4" fill="#d99550"/><rect x="46" y="48" width="2" height="2" fill="#f1d9a5"/>
+<!-- Rolled dark teal denim with red plaid cuffs -->
+<rect x="20" y="36" width="6" height="12" fill="#315c69"/><rect x="30" y="36" width="6" height="12" fill="#315c69"/><rect x="20" y="36" width="6" height="2" fill="#b74439"/><rect x="30" y="36" width="6" height="2" fill="#b74439"/>
+<rect x="22" y="38" width="2" height="7" fill="#427686"/><rect x="32" y="38" width="2" height="7" fill="#427686"/><rect x="20" y="45" width="6" height="3" fill="#213f49"/><rect x="30" y="45" width="6" height="3" fill="#213f49"/>
+<rect x="4" y="20" width="4" height="12" fill="#315c69"/><rect x="8" y="20" width="4" height="12" fill="#315c69"/><rect x="4" y="20" width="4" height="2" fill="#b74439"/><rect x="8" y="20" width="4" height="2" fill="#e2b56c"/><rect x="4" y="30" width="8" height="2" fill="#213f49"/>
+<rect x="4" y="36" width="4" height="12" fill="#315c69"/><rect x="8" y="36" width="4" height="12" fill="#315c69"/><rect x="4" y="36" width="4" height="2" fill="#b74439"/><rect x="8" y="36" width="4" height="2" fill="#e2b56c"/><rect x="4" y="46" width="8" height="2" fill="#213f49"/>
+<!-- Boots and head-side fur panels -->
+<rect x="20" y="48" width="6" height="4" fill="#493b35"/><rect x="30" y="48" width="6" height="4" fill="#493b35"/><rect x="20" y="50" width="6" height="2" fill="#242321"/><rect x="30" y="50" width="6" height="2" fill="#242321"/>
+<rect x="0" y="8" width="8" height="8" fill="#c9823f"/><rect x="0" y="16" width="8" height="8" fill="#d99550"/><rect x="16" y="16" width="8" height="4" fill="#bd7336"/><rect x="24" y="16" width="8" height="4" fill="#bd7336"/>
+<rect x="56" y="8" width="8" height="8" fill="#c9823f"/><rect x="56" y="16" width="8" height="8" fill="#d99550"/><rect x="40" y="16" width="8" height="4" fill="#bd7336"/><rect x="48" y="16" width="8" height="4" fill="#bd7336"/>
+</svg>
